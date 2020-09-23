@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# Hello, thanks for stopping by!
 
-You can use the [editor on GitHub](https://github.com/iammrbt/iammrbt.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## I _am_ Mr. BT,
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is just a minor about me page, references and resumes will be provided upon request :wink: :
 
-### Markdown
+> Providing excellent ITSM for both colleagues and clients reaching across the globe.
+> I'm passionate about what I do and perfecting business processes to the best of my ability.
+> Saving organizations time and money by delivering creative and powerful solutions is the regular 8-5 for me, while wearing my superhero Python/SQL cape both on and off the clock!
+> I love to empower support teams with the ITIL best practices and ensure that standardization hits across all levels of a multi-team, multi-tear support model!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Let's get in touch:
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iammrbt/iammrbt.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+| Linked In                                               | electronic mail                  |
+| ------------------------------------------------------- | -------------------------------- |
+| [LinkedIn](https://www.linkedin.com/in/brandonktaylor/) | [GeeMail](iammrbt+job@gmail.com) |
