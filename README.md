@@ -11,6 +11,6 @@ This is just a minor about me page, references and resumes will be provided upon
 
 ## Let's get in touch:
 
-| Linked In                                               | electronic mail                  |
+| LinkedIn                                                | electronic mail                  |
 | ------------------------------------------------------- | -------------------------------- |
 | [LinkedIn](https://www.linkedin.com/in/brandonktaylor/) | [GeeMail](iammrbt+job@gmail.com) |
