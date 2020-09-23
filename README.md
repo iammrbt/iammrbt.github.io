@@ -1,6 +1,6 @@
 # Hello, thanks for stopping by!
 
-![ProfilePic](/images/me.jpg)
+![ProfilePic](/images/me-sm.jpg)
 
 ## I _am_ Mr. BT,
 
