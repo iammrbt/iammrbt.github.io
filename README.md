@@ -1,5 +1,7 @@
 # Hello, thanks for stopping by!
 
+![ProfilePic](/images/me.jpg)
+
 ## I _am_ Mr. BT,
 
 This is just a minor about me page, references and resumes will be provided upon request :wink: :
