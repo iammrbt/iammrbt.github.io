@@ -1,4 +1,4 @@
-# Hello, thanks for stopping by!
+# Hello and thanks for stopping by!
 
 ![ProfilePic](/images/me-sm.jpg)
 
