@@ -4,7 +4,7 @@
 
 ## I _am_ Mr. BT,
 
-This is just a minor about me page, references and resumes will be provided upon request :wink: :
+This is just a tiny about me page, references and resumes will be provided upon request :wink: :
 
 > Providing excellent ITSM for both colleagues and clients reaching across the globe.
 > I'm passionate about what I do and perfecting business processes to the best of my ability.
