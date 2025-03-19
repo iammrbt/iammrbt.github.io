@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: "Mr. BT - IT Automation & Support Professional"
 description: "Showcasing expertise in IT Service Management, ITIL best practices, and innovative software automation using Python, SQL, and top iPaaS tools."
-url: "https://yourdomain.com"  # Replace with your custom domain or GitHub Pages URL
+url: "https://iammrbt.github.io"  # Replace with your custom domain or GitHub Pages URL
 baseurl: ""  # Use a subpath if needed, e.g., /blog
 author:
   name: "Mr. BT"
