@@ -1,12 +1,21 @@
 # Hello and thanks for stopping by!
-![ProfilePic](/images/me-sm.jpg)
+
+![Profile Picture of Mr. BT](/images/me-sm.jpg)
+
 ## I am Mr. BT,
-This is just a tiny about me page, references and resumes will be provided upon request :wink: :
-> Providing excellent ITSM for both colleagues and clients reaching across the globe.
-> I'm passionate about what I do and perfecting business processes to the best of my ability.
-> Saving organizations time and money by delivering creative and powerful solutions is the regular 8-5 for me, while wearing my superhero Python/SQL cape both on and off the clock!
-> I love to empower support teams with the ITIL best practices and ensure that standardization hits across all levels of a multi-team, multi-tear support model!
-## Let's get in touch:
-| LinkedIn                                                | electronic mail                  |
-| ------------------------------------------------------- | -------------------------------- |
-| [LinkedIn](https://www.linkedin.com/in/brandonktaylor/) | [GeeMail](iammrbt+job@gmail.com) |
+
+I'm an Application Support Manager based in Chesapeake, VA—juggling IT support, software automation, and the occasional high-flying drone adventure. When I'm not streamlining business processes or championing ITIL best practices, I'm knee-deep in Python scripts and wrangling automation with Zapier and Power Automate. Yep, I wear my superhero Python/SQL cape both on and off the clock.
+
+> I deliver top-notch ITSM for colleagues and clients around the globe, slicing through inefficiencies with a dash of irreverence.  
+> I’m passionate about perfecting business processes and transforming routine 8-5s into opportunities for innovation.  
+> My mission? Empower support teams with robust ITIL practices to ensure seamless, multi-tiered operations across the board.
+
+## Beyond the Daily Hustle
+
+When the workday ends, the adventure begins. Whether I'm piloting my drone over Chesapeake skies or conquering epic quests in the gaming world, I make sure my off-hours are as dynamic as my professional life.
+
+## Let's Get in Touch
+
+| **LinkedIn**                                            | **Electronic Mail**                    |
+| ------------------------------------------------------- | -------------------------------------- |
+| [LinkedIn](https://www.linkedin.com/in/brandonktaylor/) | [GeeMail](mailto:iammrbt+job@gmail.com) |
