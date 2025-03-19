@@ -1,20 +1,32 @@
-# Hello and thanks for stopping by!
+# Welcome to My Professional Profile
 
-![Profile Picture of Mr. BT](/images/me-sm2.jpg)
+![Profile Picture of Mr. BT](/images/me-sm.jpg)
 
-## I am Mr. BT,
+## About Me
 
-I'm an Application Support Manager based in Chesapeake, VA—juggling IT support, software automation, and the occasional high-flying drone adventure. When I'm not streamlining business processes or championing ITIL best practices, I'm knee-deep in Python scripts and wrangling automation with Zapier and Power Automate. Yep, I wear my superhero Python/SQL cape both on and off the clock.
+I am Mr. BT, an Application Support Manager based in Chesapeake, VA, with a proven track record in delivering exceptional IT Service Management (ITSM) and automation solutions. I thrive on optimizing business processes, empowering support teams, and implementing ITIL best practices to drive operational excellence.
 
-> I deliver top-notch ITSM for colleagues and clients around the globe, slicing through inefficiencies with a dash of irreverence.  
-> I’m passionate about perfecting business processes and transforming routine 8-5s into opportunities for innovation.  
-> My mission? Empower support teams with robust ITIL practices to ensure seamless, multi-tiered operations across the board.
+## Professional Skills & Expertise
 
-## Beyond the Daily Hustle
+- **Application Support Management:** Expert in overseeing daily operations and maintaining efficient, multi-tiered support models that enhance organizational performance.
+- **IT Service Management (ITSM):** Proven ability to deliver ITSM solutions that improve service quality, reduce downtime, and boost productivity.
+- **ITIL Best Practices:** Skilled in applying ITIL frameworks to standardize and streamline support processes across global teams.
+- **Software Automation:** Proficient in developing automation solutions using Python and SQL to optimize routine tasks and processes.
+- **Integration Platforms (iPaaS):** Experienced with tools like Zapier and Power Automate for connecting systems and automating workflows.
+- **Process Improvement:** Adept at analyzing business processes to identify inefficiencies, resulting in significant time and cost savings.
+- **Leadership & Collaboration:** Strong background in managing cross-functional teams, fostering collaboration, and driving continuous improvement initiatives.
 
-When the workday ends, the adventure begins. Whether I'm piloting my drone over Chesapeake skies or conquering epic quests in the gaming world, I make sure my off-hours are as dynamic as my professional life.
+## Professional Experience
 
-## Let's Get in Touch
+Throughout my career, I have successfully managed projects that balance technical expertise with strategic leadership. My approach combines innovative automation techniques with a deep understanding of ITIL and ITSM principles, ensuring that every solution aligns with broader business goals and delivers measurable value.
+
+## Continuous Growth & Learning
+
+I am committed to professional development and staying at the forefront of technology trends. Whether enhancing my skills in Python, exploring advanced automation techniques, or refining support strategies, I consistently seek opportunities to deliver greater value and innovation to every organization I serve.
+
+## Let's Connect
+
+If you're looking for a dedicated Application Support Manager who can drive efficiency and innovation in IT operations, I'd be delighted to connect. Please reach out via the channels below:
 
 | **LinkedIn**                                            | **Electronic Mail**                    |
 | ------------------------------------------------------- | -------------------------------------- |
