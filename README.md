@@ -1,6 +1,6 @@
 # Welcome to My Professional Profile
 
-![Profile Picture of Mr. BT](/images/me-sm.jpg)
+![Profile Picture of Mr. BT](/images/me-sm2.jpg)
 
 ## About Me
 
