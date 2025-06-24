@@ -4,7 +4,9 @@
 
 ## About Me
 
-I am Mr. BT, an Application Support Manager based in Chesapeake, VA, with a proven track record in delivering exceptional IT Service Management (ITSM) and automation solutions. I thrive on optimizing business processes, empowering support teams, and implementing ITIL best practices to drive operational excellence.
+My name is Brandon Taylor, though many in the tech community know me as "Mr. BT." I'm an Application Support Manager based in Chesapeake, VA, with a proven track record in delivering exceptional IT Service Management (ITSM) and automation solutions. I thrive on optimizing business processes, empowering support teams, and implementing ITIL best practices to drive operational excellence.
+
+Through my GitHub handle [iammrbt](https://github.com/iammrbt), I share automation scripts and support resources that highlight my passion for bridging technology and business needs.
 
 ## Professional Skills & Expertise
 
