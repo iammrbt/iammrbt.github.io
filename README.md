@@ -29,5 +29,5 @@ I am committed to professional development and staying at the forefront of techn
 If you're looking for a dedicated Application Support Manager who can drive efficiency and innovation in IT operations, I'd be delighted to connect. Please reach out via the channels below:
 
 | **LinkedIn**                                            | **Electronic Mail**                    |
-| ------------------------------------------------------- | -------------------------------------- |
+| --- | --- |
 | [LinkedIn](https://www.linkedin.com/in/brandonktaylor/) | [GeeMail](mailto:iammrbt+job@gmail.com) |
